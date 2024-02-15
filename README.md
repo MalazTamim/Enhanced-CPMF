@@ -30,8 +30,8 @@ Below, we detail the significant enhancements introduced to the base CPMF networ
 
 1.  Clone our GitHub repo:
 ```bash
-git https://github.com/MalazTamim/3D-Anomaly-Detection-CPMF
-cd 3D-Anomaly-Detection/CPMF
+git https://github.com/MalazTamim/Enhanced-CPMF
+cd Enhanced-CPMF
 ```
 
 2. Create a new conda environment to install the required libraries:
@@ -51,7 +51,7 @@ Pretrained Checkpoints : https://drive.google.com/file/d/1FTcZnUkwrL8H--xBFQY2z3
 
 4. Extract the downloaded dataset, Multiview dataset and checkpoints in such file structure:
 ```bash
---3D-Anomaly-Detection-CPMF/
+--Enhanced-CPMF/
 
         -datasets/Real_AD_3D
 
