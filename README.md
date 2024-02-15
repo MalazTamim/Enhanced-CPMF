@@ -101,5 +101,5 @@ Note :
 
 ## Results
 
-![Metrics](CPMF/utils/results.png)
+![Metrics](utils/results.png)
 
