@@ -13,7 +13,7 @@ Base paper rankings as of 2024-02-07
 ## Introduction
 We are a team of three pursuing our Master of Science at the Technical University of Munich. This project work involved choosing a recently published research in domain of 3D anomaly detection. Hence, we took up the base CPMF paper, and added a few modifications to its pipeline. Some of the modifications have  been inspired by [Shape-Guided](https://openreview.net/pdf?id=IkSGn9fcPz) and [Neural-Pull](https://arxiv.org/pdf/2011.13495.pdf).
 
-
+![Metrics](images/architecture.png)
 
 
 ## Enhancements to the Base CPMF Network
@@ -101,5 +101,5 @@ Note :
 
 ## Results
 
-![Metrics](utils/results.png)
+![Metrics](images/results.png)
 
