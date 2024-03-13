@@ -104,9 +104,9 @@ Three evaluation metrics are employed in this study. Image-level anomaly detecti
 
 For anomaly segmentation at the pixel level, two metrics are utilized:
 
-    Pixel-wise ROC (P-ROC), an extension of the standard ROC for pixel-level analysis. This approach considers each pixel in the dataset as an individual sample, calculating the ROC over all pixels in the dataset.
+1. Pixel-wise ROC (P-ROC), an extension of the standard ROC for pixel-level analysis. This approach considers each pixel in the dataset as an individual sample, calculating the ROC over all pixels in the dataset.
 
-    The PRO metric, represented as P-PRO, is defined as the average relative overlap of the binary prediction P with each ground truth connected component Ck, where K signifies the number of ground truth components. The final metric is obtained by integrating this curve up to a specified false positive rate and normalizing using an integration limit of 0.3.
+2. The PRO metric, represented as P-PRO, is defined as the average relative overlap of the binary prediction P with each ground truth connected component Ck, where K signifies the number of ground truth components. The final metric is obtained by integrating this curve up to a specified false positive rate and normalizing using an integration limit of 0.3.
     
 ![Metrics](images/results.png)
 
