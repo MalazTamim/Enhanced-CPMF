@@ -1,5 +1,5 @@
 
-# Enhanced:  Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection 
+# Enhanced:  Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection - Malaz Tamim
 ### [Base Paper:](https://arxiv.org/abs/2303.13194)
 Base paper rankings as of 2024-02-07
 
