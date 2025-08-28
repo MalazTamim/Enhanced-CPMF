@@ -4,11 +4,7 @@
 Base paper rankings as of 2024-02-07
 
 # Project Report & Presentation Links
-<p>
-  📂 You can find the links for the project report and presentation
-  <a href="https://drive.google.com/drive/folders/1axQhFHMHNhiAqSlSv9XMctRllB1GhRLV?usp=sharing"
-     target="_blank" rel="noopener noreferrer">here</a>.
-</p>
+📂 You can find the links for the project report and presentaion [here](https://drive.google.com/drive/folders/1axQhFHMHNhiAqSlSv9XMctRllB1GhRLV?usp=sharing)
 
 
 
