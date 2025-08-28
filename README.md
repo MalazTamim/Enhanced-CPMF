@@ -3,7 +3,7 @@
 ### [Base Paper](https://arxiv.org/abs/2303.13194)
 
 # Project Report & Presentation Links
-📂 You can find the links for the project report and presentaion [here](https://drive.google.com/drive/folders/1axQhFHMHNhiAqSlSv9XMctRllB1GhRLV?usp=sharing)
+📂 You can find the project report and presentaion [here](https://drive.google.com/drive/folders/1axQhFHMHNhiAqSlSv9XMctRllB1GhRLV?usp=sharing)
 
 
 
