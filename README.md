@@ -3,9 +3,9 @@
 ### [Base Paper:](https://arxiv.org/abs/2303.13194)
 Base paper rankings as of 2024-02-07
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/complementary-pseudo-multimodal-feature-for/depth-anomaly-detection-and-segmentation-on)](https://paperswithcode.com/sota/depth-anomaly-detection-and-segmentation-on?p=complementary-pseudo-multimodal-feature-for)
+# Project Report & Presentation Links
+📂 You can find the links for the project report and presentaion [here](https://drive.google.com/drive/folders/1axQhFHMHNhiAqSlSv9XMctRllB1GhRLV?usp=sharing)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/complementary-pseudo-multimodal-feature-for/3d-anomaly-detection-and-segmentation-on)](https://paperswithcode.com/sota/3d-anomaly-detection-and-segmentation-on?p=complementary-pseudo-multimodal-feature-for)
 
 
 
